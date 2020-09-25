@@ -4,7 +4,7 @@ This portfolio consists of projects and workings as part of my journey in Data S
 
 This repository is therefore a work in progress and continual improvement will be noticed right from the first post.
 
-##[My current favorite data science website (amongst 1000s)](https://towardsdatascience.com/)
+[My current favorite data science website (amongst 1000s)](https://towardsdatascience.com/)
 ***
 
 
