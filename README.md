@@ -4,7 +4,6 @@ This portfolio (as well as other repos) consists of projects and workings as par
 
 This repository is therefore a work in progress and continual improvement will be noticed right from the first post.
 
-[My current favorite data science website (amongst 1000s)](https://towardsdatascience.com/)
+**Reading** [My current favorite data science website (amongst 1000s)](https://towardsdatascience.com/)
 ***
-
-
+[Project Scrape](https://github.com/bmk316/scrape)
